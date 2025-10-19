@@ -44,6 +44,8 @@ The final output is a comprehensive and structured report in the style of Wiki d
 
  --Enter Tavily Search API Key--
  ```bash
- TAVILY_API_KEY = getpass('Enter Tavily Search API Key: ')```
+ TAVILY_API_KEY = getpass('Enter Tavily Search API Key: ')
+```
+
 
 <img width="3406" height="2082" alt="Untitled-2025-04-23-deep excalidraw" src="https://github.com/user-attachments/assets/086e0f31-ac96-48b2-9b2d-b28d5c0a9f63" />
